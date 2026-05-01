@@ -1,4 +1,4 @@
-📚 Library H2 Swagger Records
+## 📚 Library H2 Swagger Records
 
 A full-stack application for managing library records, including books, authors, countries, and statistics, built with React and a Spring Boot backend using H2 database and Swagger documentation.
 
@@ -13,13 +13,13 @@ A full-stack application for managing library records, including books, authors,
 
 🛠️ Tech Stack
 # Frontend:
-React
-TypeScript
-Axios
+React,
+TypeScript,
+Axios,
 React Hooks
 
 # Backend:
-Java / Spring Boot
-Spring Data JPA
-H2 Database
+Java / Spring Boot,
+Spring Data JPA,
+H2 Database,
 Swagger / OpenAPI
